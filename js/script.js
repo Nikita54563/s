@@ -1,2 +1,1 @@
-const answer = prompt("вам есть 18", "18");
-console.log(answer);
+const number0Films =
